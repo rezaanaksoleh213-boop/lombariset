@@ -1,0 +1,178 @@
+@import "tailwindcss";
+
+/* ── CACAO-MIST™ Design System — Tailwind v4 CSS-First Config ── */
+
+@theme {
+  /* Brand Colors */
+  --color-sage-aqua: #A8CFC1;
+  --color-deep-sage: #2E6B5B;
+  --color-cocoa-brown: #70452E;
+  --color-soft-beige: #EADFCF;
+  --color-ivory: #F8F6EE;
+  --color-muted-gold: #C4A368;
+  --color-leaf-green: #7DAA65;
+  --color-warm-sand: #D9C3A7;
+  --color-forest-green: #244C38;
+
+  /* Typography */
+  --font-playfair: var(--font-playfair-display), Georgia, serif;
+  --font-montserrat: var(--font-montserrat-font), system-ui, sans-serif;
+
+  /* Border radius extensions */
+  --radius-4xl: 2rem;
+  --radius-5xl: 3rem;
+
+  /* Spacing extensions */
+  --spacing-18: 4.5rem;
+  --spacing-88: 22rem;
+  --spacing-128: 32rem;
+
+  /* Animations */
+  --animate-fade-in: fadeIn 0.6s ease-out;
+  --animate-slide-up: slideUp 0.7s ease-out;
+  --animate-float: float 6s ease-in-out infinite;
+  --animate-mist: mist 8s ease-in-out infinite;
+
+  /* Keyframes */
+  @keyframes fadeIn {
+    from { opacity: 0; }
+    to { opacity: 1; }
+  }
+
+  @keyframes slideUp {
+    from { opacity: 0; transform: translateY(24px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+
+  @keyframes float {
+    0%, 100% { transform: translateY(0px); }
+    50% { transform: translateY(-12px); }
+  }
+
+  @keyframes mist {
+    0%, 100% { opacity: 0.3; transform: scale(1); }
+    50% { opacity: 0.6; transform: scale(1.05); }
+  }
+}
+
+/* ── CSS Custom Properties (for non-Tailwind use) ── */
+:root {
+  --sage-aqua: #A8CFC1;
+  --deep-sage: #2E6B5B;
+  --cocoa-brown: #70452E;
+  --soft-beige: #EADFCF;
+  --ivory: #F8F6EE;
+  --muted-gold: #C4A368;
+  --leaf-green: #7DAA65;
+  --warm-sand: #D9C3A7;
+  --forest-green: #244C38;
+}
+
+/* ── Base Styles ── */
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: #F8F6EE;
+  color: #2E6B5B;
+  line-height: 1.7;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  line-height: 1.2;
+  font-weight: 700;
+}
+
+/* Focus styles */
+:focus-visible {
+  outline: 2px solid #A8CFC1;
+  outline-offset: 3px;
+  border-radius: 4px;
+}
+
+/* Selection */
+::selection {
+  background-color: #A8CFC1;
+  color: #244C38;
+}
+
+/* Scrollbar */
+::-webkit-scrollbar { width: 6px; }
+::-webkit-scrollbar-track { background: #F8F6EE; }
+::-webkit-scrollbar-thumb { background: #A8CFC1; border-radius: 3px; }
+
+/* ── Section Padding Utility ── */
+.section-py {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+}
+
+@media (min-width: 768px) {
+  .section-py {
+    padding-top: 7rem;
+    padding-bottom: 7rem;
+  }
+}
+
+/* ── Status Badge Utilities ── */
+.badge-planned {
+  background-color: #FEF3C7;
+  color: #92400E;
+  border: 1px solid #FDE68A;
+}
+
+.badge-in-progress {
+  background-color: #DBEAFE;
+  color: #1E40AF;
+  border: 1px solid #BFDBFE;
+}
+
+.badge-verified {
+  background-color: #D1FAE5;
+  color: #065F46;
+  border: 1px solid #A7F3D0;
+}
+
+.badge-simulasi {
+  background-color: #FEE2E2;
+  color: #991B1B;
+  border: 1px solid #FECACA;
+}
+
+/* ── Demo Data Label ── */
+.demo-label {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.375rem;
+  font-size: 0.625rem;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  padding: 0.125rem 0.5rem;
+  border-radius: 9999px;
+  background-color: #FEF3C7;
+  color: #92400E;
+  border: 1px solid #FDE68A;
+}
+
+/* ── Reduced Motion ── */
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+/* ── Leaflet overrides ── */
+.leaflet-container {
+  border-radius: 1rem;
+}

@@ -1,0 +1,205 @@
+PROPOSAL LOMBA RISET MAHASISWA
+JUDUL RISET :
+CACAOMIST-BIOREFINERY: "Valorisasi Sirkular Limbah Kulit Buah Kakao (Theobroma cacao L.) Melalui Cascade Biorefinery: Formulasi Hybrid Eco-Sunscreen Spray Berbasis NADES-Pektin dan Dual Eco-Packaging Selulosa"
+BIDANG RISET :
+Pangan, Pakan, dan Kesehatan 
+Diusulkan oleh :
+FAKULTAS MATEMATIKA DAN ILMU PENGETAHUAN ALAM
+UNIVERSITAS SYIAH KUALA
+BANDA ACEH
+2026
+PENGESAHAN PROPOSAL LOMBA RISET MAHASISWA
+DAFTAR ISI
+ABSTRAK
+Peningkatan limbah kulit buah kakao (Theobroma cacao L.) yang melimpah hingga mencapai 75% dari total bobot buah belum dimanfaatkan secara optimal, padahal biomassa ini menyimpan potensi senyawa bioaktif fotoprotektif (polifenol dan fitosterol) serta biopolimer structural. Tingginya paparan radiasi ultraviolet yang memicu kerusakan kulit serta maraknya penggunaan bahan kimia sintetis dan kemasan plastik anorganik menuntut hadirnya inovasi kosmetik alami yang ramah lingkungan. Penelitian ini bertujuan melakukan valorisasi sirkular limbah kulit buah kakao melalui pendekatan kaskade biorefinery 100% zero-waste untuk memformulasi CACAO-MIST™ (Hybrid Eco-Sunscreen Spray berbasis NADES-pektin) yang terintegrasi dengan Dual Eco-Packaging selulosa.
+Pelaksanaan riset dikerjakan melalui lima tahapan terintegrasi selama 6 bulan di Universitas Syiah Kuala. Tahap awal diawali ekstraksi bioaktif CPH kaya fitosterol dan polifenol menggunakan pelarut Natural Deep Eutectic Solvent terpandu gelombang ultrasonik (NADES-UAE), dilanjutkan ekstraksi pektin CPH via Microwave-Assisted Extraction (MAE) sebagai agen hidrojel penstabil emulsi. Tahap berikutnya memformulasi sediaan Hybrid Eco-Sunscreen Spray CACAO-MIST™ ber-SPF 30+ berpasangan dengan mineral Non-nano Zinc Oxide (> 200 nm, reef-safe), serta mengisolasi selulosa ampas padat CPH yang dikombinasikan serat ampas tebu (rasio 75% selulosa CPH : 25% serat ampas tebu) untuk memfabrikasi kemasan bioplastik Dual Eco-Packaging (Eco-Sleeve dan Outer Box). Tahap akhir mengintegrasikan Smart Packaging QR-Code Traceability System dan platform Web Landing Page guna transparansi rantai pasok dari perkebunan kakao lokal hingga menjadi produk akhir. Evaluasi sediaan dan kemasan mencakup pengujian fisikokimia, stabilitas freeze-thaw, efikasi SPF in-vitro, antioksidan DPPH ( uji iritasi kulit dan mikrobiologi standar BPOM, serta karakterisasi instrumen spektroskopi Fourier Transform Infrared (FTIR) dan Scanning Electron Microscope (SEM).
+Capaian luaran riset menargetkan prototipe sediaan CACAO-MIST™ 100 mL ber-SPF 30+, kemasan bioplastik Dual Eco-Packaging selulosa biodegradable (< 60 hari), sistem digital traceability, pendaftaran Paten Sederhana dan Hak Cipta DJKI Kemenkumham, draf publikasi jurnal terakreditasi, serta laporan pertanggungjawaban akhir. Inovasi ini memberikan solusi konkrit valorisasi sirkular biomassa kakao nasional sekaligus mendukung terwujudnya ekonomi sirkular yang berkelanjutan.
+Kata Kunci: Kulit Buah Kakao (Theobroma cacao L.), Valorisasi Sirkular, Kaskade Biorefinery, CACAO-MIST™, Hybrid Eco-Sunscreen Spray, Dual Eco-Packaging Selulosa.
+BAB1
+PENDAHULUAN
+1.1 Latar Belakang
+	Komoditas kakao (Theobroma cacao L.) merupakan subsektor perkebunan unggulan Indonesia dengan luas areal mencapai 1,5 juta hektar, di mana Provinsi Aceh menjadi salah satu wilayah sentra produksi kakao utama di wilayah Sumatra. Kebijakan Peraturan Presiden Nomor 132 Tahun 2024 memberi mandat kepada Badan Pengelola Dana Perkebunan (BPDP) untuk mengalokasikan dana riset guna mendorong hilirisasi komoditas perkebunan secara berkelanjutan. Industri pengolahan kakao menghasilkan limbah padat kulit buah kakao (cocoa pod husk / CPH) sebanyak 70% hingga 75% dari bobot buah segar, di mana 95% petani swadaya membuangnya secara terbuka hingga memicu pelepasan gas rumah kaca serta wabah penyakit busuk buah Phytophthora palmivora (Anoraga et al., 2024). Paparan intensif radiasi ultraviolet (UV) sinar matahari di wilayah tropis Indonesia memicu pembentukan radikal bebas dan kerusakan jaringan kulit, sehingga membutuhkan perlindungan tabir surya yang efektif serta aman bagi lingkungan (Anatachodwanit et al., 2025).
+	Kulit buah kakao menyimpan potensi biomassa lignoselulosa melimpah yang kaya akan biopolimer pektin (6,1%–9,2%), selulosa (24%–35%), serta senyawa metabolit sekunder penangkap radikal bebas dan penyerap radiasi UV. Skrining fitokimia ekstrak CPH membuktikan keberadaan senyawa fitosterol utama yaitu -sitosterol, stigmasterol, dan campesterol serta golongan polifenol yang menghasilkan kapasitas peredaman radikal bebas sangat kuat (Yahya et al., 2021). Ekstraksi senyawa bioaktif CPH dioptimalkan melalui teknologi pelarut hijau NADES (Choline Chloride : Lactic Acid 1:2 + 50%  ) berbasis ultrasonik (UAE) yang terbukti ramah lingkungan dengan skor Path2Green positif +0,341 (Morales et al., 2025). Isolasi biopolimer pektin dan selulosa dari ampas CPH juga berpotensi dimanfaatkan sebagai hidrojel penstabil sediaan kosmetik serta biomaterial fabrikasi kemasan bioplastik ramah lingkungan.
+	Penelitian kosmetik terdahulu telah berhasil memformulasi ekstrak kulit buah kakao menjadi sediaan emulgel tabir surya ber-SPF dan serum wajah antioksidan berbasis minyak nabati (Priani et al., 2021). Pemanfaatan komponen pektin CPH sebagai gelling agent dan selulosa CPH sebagai film bioplastik kemasan juga telah dikembangkan secara terpisah dalam berbagai skala laboratorium. Kesenjangan riset (research gap) utama teridentifikasi dari belum adanya pengolahan seluruh fraksi CPH secara terintegrasi closed-loop cascading biorefinery yang mampu mengolah limbah secara 100% zero-waste (Belwal et al., 2022). Bentuk sediaan kosmetik CPH terdahulu masih sebatas krim atau emulgel konvensional berwadah botol plastik sintetis, di mana penggunaannya memerlukan pengusapan tangan yang kurang praktis serta berpotensi menyumbang sampah plastik tak terurai.
+	Inovasi CACAO-MIST™ (COCOASHIELD-BIOREFINERY) hadir memformulasi sediaan Hybrid Eco-Sunscreen Spray ber-SPF berbasis NADES-pektin CPH dan Non-nano ZnO dengan metode pengaplikasian tanpa sentuh (100% touchless spray). Kemasan produk ini dirancang secara terpadu menggunakan dual eco-packaging bioplastik selulosa ampas CPH (Eco-Sleeve & Outer Box), sehingga mewujudkan sistem hilirisasi kakao bernilai tambah tinggi yang ramah lingkungan dan bebas limbah (zero-waste circular bioeconomy).
+ 1.2 Rumusan Masalah
+Bagaimana kondisi optimal ekstraksi bioaktif (fitosterol dan polifenol) CPH menggunakan pelarut hijau NADES berbasis UAE?
+Bagaimana pengaruh konsentrasi penstabil pektin CPH dan mineral non-nano ZnO terhadap sifat fisikokimia, pH (4,5–5,5), dan pola semprotan (fine mist) sediaan CACAO-MIST™?
+Berapa nilai SPF, efisiensi proteksi Broad Spectrum (UV-A/UV-B), dan aktivitas antioksidan sediaan secara in-vitro?
+Bagaimana pengaruh rasio selulosa CPH dan plastisiser terhadap sifat ketahanan air (WVTR) dan biodegradabilitas kemasan bioplastik (Eco-Sleeve dan Outer Box)?
+1.3 Tujuan Penelitian
+	Tujuan dari penelitian ini adalah memanfaatkan seluruh komponen kulit buah kakao (cocoa pod husk / CPH) secara tuntas berbasis konsep 100% zero-waste cascading biorefinery melalui tahapan berikut:
+Mengoptimalkan green extraction senyawa bioaktif CPH (fitosterol dan polifenol) menggunakan pelarut hijau NADES (Choline Chloride : Lactic Acid 1:2) berbasis ultrasonik (UAE).
+Memproduksi biopolimer pektin dari ampas CPH via Microwave-Assisted Extraction (MAE) sebagai penstabil emulsi hidrojel sediaan Hybrid Eco-Sunscreen Spray CACAO-MIST™.
+Mengevaluasi efektivitas fotoproteksi in-vitro (nilai SPF dan Broad Spectrum), aktivitas antioksidan, serta profil keamanan sediaan kosmetik sesuai standar BPOM.
+Mengisolasi selulosa dari ampas sisa CPH untuk difabrikasi menjadi dual eco-packaging bioplastik (Eco-Sleeve dan Outer Box) serta menguji ketahanan air dan daya uraiannya.
+ 1.4 Manfaat Penelitian
+Bagi Industri Kosmetik & Perkebunan: Menyediakan bahan aktif tabir surya alami dan kemasan bioplastik lokal ramah lingkungan sebagai alternatif substitusi bahan kimia sintetis maupun impor.
+Bagi Kelompok Tani Kakao: Meningkatkan nilai ekonomi limbah CPH dari zero-value waste menjadi produk sampingan bernilai jual tinggi untuk menambah pendapatan petani.
+Bagi Lingkungan & Sains: Mengurangi pencemaran limbah perkebunan melalui skema zero-waste circular bioeconomy serta memperkaya khazanah aplikasi Green Chemistry dan rekayasa biomaterial.
+BAB 2
+TINJAUAN PUSTAKA
+Senyawa metabolit sekunder dalam kulit buah kakao (cocoa pod husk / CPH) memiliki peranan krusial sebagai agen fotoprotektif dan antioksidan alami. Kandungan polifenol dan flavonoid seperti katekin, epikatekin, prosianidin, serta asam ferulat bertindak sebagai chemical UV-filter yang mampu menyerap radiasi ultraviolet (UV-A dan UV-B) melalui gugus kromofor terkonjugasi sekaligus menetralkan reactive oxygen species (ROS) (Priani et al., 2021). Fitosterol alami CPH yang didominasi oleh sitosterol, stigmasterol, dan campesterol terbukti memiliki kapasitas peredaman radikal bebas DPPH yang sangat kuat dengan nilai hingga rentang belasan ppm (Febrina et al., 2024; Yahya et al., 2021). Penambahan agen mineral Non-nano Zinc Oxide (ZnO) melengkapi mekanisme fotoproteksi fisik (physical UV-filter) dengan memantulkan radiasi sinar matahari secara ramah ekosistem laut (reef-safe) (Khoiriyah et al., 2023).
+Penggunaan pelarut hijau Natural Deep Eutectic Solvents (NADES) berbasis Kolin Klorida dan Asam Laktat (rasio molar 1:2) menawarkan efisiensi ekstraksi bioaktif CPH yang tinggi melalui pembentukan ikatan hidrogen intermolekuler (Morales et al., 2025). Fenomena kavitasi akustik dari bantuan gelombang ultrasonik (Ultrasound-Assisted Extraction / UAE) merusak dinding sel biomassa secara mekanis, sehingga mempercepat perpindahan massa senyawa fenolik tanpa memicu degradasi termal. Metode Microwave-Assisted Extraction (MAE) dengan pelarut asam sitrat 10% memanfaatkan pemanasan dielektrik internal untuk memutus ikatan ester pektin dari matriks dinding sel CPH secara cepat (Sarah et al., 2022). Karakteristik pektin CPH hasil MAE tergolong low-methoxyl pectin dengan kadar asam galakturonat murni mencapai 72,86%, yang berfungsi sebagai penstabil emulsi hidrojel (hydrogel agent) sediaan kosmetik. Pengisolasian pektin CPH tersebut berpotensi dikembangkan menjadi sediaan kosmetik semprot (touchless sprayable hydro-mist) guna memberikan distribusi droplet yang merata pada permukaan kulit tanpa memerlukan pengusapan tangan. Penetapan efektivitas fotoproteksi sediaan diukur secara in-vitro berdasarkan nilai Sun Protection Factor (SPF) menggunakan Spektrofotometer UV-Vis pada panjang gelombang 290–320 nm melalui perhitungan Persamaan Mansur (Khoiriyah et al., 2023). Pengujian stabilitas dipercepat (accelerated stability test) pada suhu dan kelembapan terukur dikerjakan untuk memprediksi masa simpan (shelf-life) serta menjaga konsistensi pH fisiologis sediaan pada rentang 4,5–5,5.
+Proses isolasi selulosa dari ampas padat sisa ekstraksi pektin CPH diawali dengan delignifikasi alkali () dan pemutihan (bleaching)  untuk memisahkan kandungan lignin dan hemiselulosa. Formulasi matriks bioplastik dengan rasio 75% selulosa CPH : 25% serat penguat serta penambahan plastisiser gliserol dan sorbitol menghasilkan film biopolimer berstruktur rapat (Azmin et al., 2020). Kombinasi serat dan plastisiser tersebut meningkatkan sifat ketahanan air film dengan pencapaian persentase daya serap air paling minimal sebesar 17,62% (Azmin et al., 2020). Pengukuran permeabilitas uap air (Water Vapor Transmission Rate / WVTR) menunjukkan nilai yang rendah sebesar/ day sehingga efektif menahan laju migrasi kelembapan serta memiliki kemampuan terurai alami (biodegradable) di dalam tanah (Azmin et al., 2020).
+Penerapan skema kaskade closed-loop cascading biorefinery mengintegrasikan pemrosesan seluruh fraksi CPH secara berurutan tanpa menghasilkan limbah sisa ke lingkungan (Belwal et al., 2022). Integrasi berurutan dari ekstraksi bioaktif NADES-UAE, isolasi pektin MAE, hingga fabrikasi bioplastik selulosa CPH (Eco-Sleeve dan Outer Box) mewujudkan skema pengolahan biomassa sirkular bernilai tambah tinggi yang 100% zero-waste.
+BAB 3
+METODE RISET
+3.1 Waktu dan Tempat Penelitian
+	Penelitian ini dilaksanakan selama 6 bulan dengan estimasi waktu mulai pada januari 2027 hingga Juni 2027. Pelaksanaan ekstraksi hijau, isolasi biopolimer, formulasi sediaan, serta uji fisikokimia dipusatkan di Laboratorium Riset Kimia Dasar dan Laboratorium Farmasi Terpadu Universitas Syiah Kuala, Banda Aceh. Pengujian karakterisasi gugus fungsi FTIR dan morfologi SEM (Scanning Electron Microscope) dilaksanakan di UPT Laboratorium Terpadu Universitas Syiah Kuala.
+3.2 Alat dan Bahan
+	3.2.1 Alat Penelitian
+	Peralatan utama mencakup timbangan analitik presisi (Ohaus), blender mekanis, ayakan standar 100 mesh, ultrasonic bath 40 kHz (Elmasonic), microwave oven terkalibrasi (Panasonic 450W), Spektrofotometer UV-Vis (Thermo Scientific), pH meter digital, viscometer Brookfield, rotary evaporator, oven pengering, cetakan kaca bioplastik, mikropipet, instrumen FTIR (Shimadzu), serta Scanning Electron Microscope (SEM).
+	3.2.2 Bahan Penelitian (100% Green Chemistry & Biodegradable)
+Bahan Utama Biomassa Kakao: Kulit Buah Kakao (Cocoa Pod Husk / CPH) segar hasil panen perkebunan kakao lokal Kabupaten Pidie, Provinsi Aceh.
+Bahan Ekstraksi Pelarut Hijau (NADES & MAE): Kolin Klorida (Choline Chloride / ChCl), Asam Laktat (Lactic Acid / LA), asam sitrat food grade (10%), etanol 96% p.a., dan akuades.
+Bahan Formulasi Sunscreen Spray CACAO-MIST™: Ekstrak bioaktif CPH, pektin CPH (sebagai hydrogel agent), mineral Non-nano Zinc Oxide (ZnO > 200 nm, reef-safe), Polysorbate-20, propilenglikol, serta Triethanolamine (TEA).
+Bahan Isolasi Selulosa & Fabrikasi Bioplastik Kemasan: Serat ampas tebu (sugarcane bagasse fiber) terdelignifikasi (sebagai penguat rasio 25%), Natrium Hidroksida (NaOH 1M), Hidrogen Peroksida  3%), gliserol, dan sorbitol nabati.
+Reagen Analisis & Mikrobiologi: 2,2-difenil-1-pikrilhidrazil (DPPH), media Nutrient Agar (NA), dan Sabouraud Dextrose Agar (SDA).
+3.3 Diagram Alir Tahapan Penelitian
+	Alur riset terintegrasi dikerjakan melalui lima tahapan utama berbasis closed-loop cascading biorefinery
+	3.3.1 Preparasi Biomassa CPH dan Ekstraksi Bioaktif NADES-UAE
+Prosedur Kerja: 
+Pencucian kulit buah kakao segar dilakukan menggunakan air mengalir untuk membersihkan kotoran pengotor. 
+Pengeringan serpihan CPH dikerjakan menggunakan oven suhu 50°C selama 48 jam hingga kadar air mencapai < 10%. 
+Penghancuran CPH dilakukan menggunakan blender mekanis dan diayak menggunakan ayakan standar hingga diperoleh serbuk halus berukuran 100 mesh.
+Pembuatan pelarut NADES dikerjakan dengan mencampurkan Kolin Klorida dan Asam Laktat (rasio molar 1:2) serta penambahan akuades 50% v/v pada suhu 80°C hingga terbentuk cairan jernih homogen.
+Penimbangan 10 g serbuk CPH dimasukkan ke dalam 100 mL pelarut NADES.
+Proses Ultrasound-Assisted Extraction (UAE) dijalankan pada frekuensi 40 kHz dan suhu 50°C selama 30 menit. 
+Pemisahan filtrat dari residu padat dilakukan melalui sentrifugasi pada kecepatan 4.000 rpm selama 15 menit.
+Penyimpanan filtrat ekstrak pekat bioaktif CPH dilakukan dalam wadah gelap suhu 4°C untuk analisis fitokimia dan bahan aktif formulasi.
+	Indikator Capaian Terukur: Rendemen ekstrak pekat bioaktif CPH tercapai minimal 15%–20% (w/w) dengan konfirmasi keberadaan senyawa fitosterol dan polifenol.
+	3.3.2 Ekstraksi Pektin CPH via Microware-Assisted Extraction (MAE)
+Prosedur Kerja: 
+Pencucian ampas padat CPH sisa ekstraksi Tahap I dilakukan menggunakan akuades hangat untuk membersihkan sisa pelarut NADES, lalu dikeringkan pada suhu 50°C.
+Pelarutan 10 g ampas CPH kering dikerjakan dalam larutan asam sitrat 10% (pH 2,0) dengan rasio padat-cair 1:30 g/mL.
+Ekstraksi MAE dijalankan menggunakan daya radiasi gelombang mikro 450 Wat selama 10 menit.
+Pemisahan filtrat dari ampas dilakukan menggunakan kain saring, dilanjutkan pendinginan pada suhu ruang.
+Presipitasi pektin dikerjakan melalui penambahan etanol 96% dingin (rasio 1:2 v/v) dan didiamkan selama 12 jam hingga endapan pektin menggumpal sempurna.
+Pemisahan endapan pektin dilakukan via penyaringan, dicuci menggunakan etanol 70%, dan dikeringkan dalam oven suhu 50°C hingga diperoleh bobot konstan.
+	Indikator Capaian Terukur: Rendemen pektin CPH murni tercapai minimal 15%–21% (w/w) berkarakteristik low-methoxyl pectin.
+	3.3.3 Formulasi Sunscreen Spray CACAO-MIST™
+Prosedur Kerja:
+Pembuatan fasa hidrojel dikerjakan dengan melarutkan 1,5% (w/v) pektin CPH ke dalam akuades hangat suhu 60°C hingga terdispersi sempurna.
+Pencampuran fasa aktif dilakukan dengan memasukkan 3% (v/v) ekstrak bioaktif NADES CPH, 5% (w/v) Non-nano Zinc Oxide (ZnO > 200 nm), 2% Polysorbate-20, serta 5% propilenglikol ke dalam fasa hidrojel pektin.
+Pengaturan pH fisiologis sediaan dikerjakan dengan menambahkan penetes Triethanolamine (TEA) hingga mencapai rentang pH 4,5–5,5.
+Pengadukan emulsi dilakukan menggunakan homogenizer kecepatan 3.000 rpm selama 15 menit hingga diperoleh sediaan hidrojel cair homogen.
+Pengemasan sediaan dilakukan ke dalam botol semprot rPET 100 mL untuk uji mutu fisika, kimia, efikasi fotoproteksi, serta keamanannya.
+	Indikator Capaian Terukur: Organoleptik sediaan berwujud emulsi hidrojel cokelat muda bening, homogen, dan dapat disemprotkan halus (fine-mist spray).
+	3.3.4 Isolasi Selulosa CPH dan Fabrikasi Dual Eco-Packaging Bioplastik
+Prosedur Kerja:
+Proses delignifikasi ampas padat sisa pektin Tahap II dikerjakan mereaksikan ampas dengan larutan NaOH 1M pada suhu 80°C selama 2 jam.
+Pencucian residu dilakukan menggunakan akuades hingga mencapai pH netral.
+Pemutihan (bleaching) serat dikerjakan menggunakan larutan H₂O₂ 3% pada suhu 70°C selama 1 jam hingga diperoleh serat selulosa putih murni. 
+Pencampuran bahan bioplastik dilakukan menggabungkan 1,125 g selulosa CPH (75%) dan 0,375 g serat ampas tebu (sugarcane bagasse fiber) (25%) ke dalam 40 mL akuades.
+Penambahan bahan plastisiser dikerjakan dengan memasukkan 1 mL gliserol dan 0,5 g sorbitol nabati.
+Pemanasan campuran dilakukan pada suhu 75°C selama 30 menit sambil diaduk homogen, dilanjutkan penuangan ke dalam cetakan kaca (casting method).
+Pengeringan bioplastik dikerjakan dalam oven suhu 50°C selama 24 jam hingga terbentuk film fleksibel.
+Pencetakan lembaran bioplastik dilakukan secara mekanis menjadi bentuk selubung botol (Eco-Sleeve) dan kotak kemasan luar (Outer Box).
+	Indikator Capaian Terukur: Bioplastik memenuhi struktur fleksibel dengan ketahanan air optimal (WVTR rendah.
+	3.3.5 Integrasi Smart Packaging QR-Code dan Web Landing Page
+Prosedur Kerja:
+Penyusunan basis data digital dikerjakan mengintegrasikan pemetaan lokasi panen CPH lokal Pidie (Aceh), hasil uji SPF/antioksidan, serta panduan pengomposan bioplastik.
+Pencetakan kode QR unik (Smart Packaging QR-Code) dikerjakan pada permukaan kemasan bioplastik Outer Box dan Eco-Sleeve.
+Pembuatan situs Web Landing Page dikerjakan menggunakan platform web responsif berkecepatan tinggi.
+	Indikator Capaian Terukur: Kode QR terverifikasi 100% dapat dipindai dan situs web terpublikasi secara online.
+3.4 Prosedur Kerja Penelitian Rinci Pengujian Laboratorium, Keamanan BPOM, dan Karakterisasi
+	Seluruh pengujian mutu, keamanan, efikasi, dan karakterisasi material dikerjakan secara runtun melalui prosedur laboratorium terstandar.
+	3.4.1 Pengujian Efikasi Fotoproteksi SPF In-Vitro & Aktivitas Antioksidan 	        DPPH
+Prosedur Uji Nilai SPF (Spektrofotometri UV-Vis Metode Mansur):
+Pembuatan larutan stok sediaan dikerjakan dengan melarutkan 100 mg sediaan spray CACAO-MIST™ ke dalam etanol 96% hingga volume 100 mL (konsentrasi 1.000 ppm).
+Pengukuran nilai absorbansi sediaan dilakukan menggunakan Spektrofotometer UV-Vis pada panjang gelombang sinar UV-B yaitu 290–320 nm dengan interval pembacaan setiap 5 nm.
+Penggunaan etanol 96% murni dipakai sebagai blanko kalibrasi instrument.
+Perhitungan nilai SPF dikerjakan mengacu pada Persamaan Mansur 
+	Keterangan:  = 10(faktor koreksi); = spektrum efisiensi eritema dan intensitas sinar matahari terstandardisasi)
+Prosedur Uji Aktivitas Antioksidan DPPH ():
+Pembuatan larutan DPPH 0,4 mM dikerjakan dengan melarutkan 7,9 mg serbuk DPPH dalam 50 mL methanol p.a. (disimpan dalam wadah gelap terlindung cahaya).
+Pembuatan deret seri konsentrasi ekstrak/sediaan dikerjakan pada rentang 6,25; 12,5; 25; 50; dan 100 ppm.
+Pencampuran 1 mL larutan sampel dengan 1 mL larutan DPPH dikerjakan dalam tabung reaksi, dikocok homogen menggunakan vortex, dan diinkubasi pada suhu 37°C selama 30 menit dalam ruang gelap.
+Pengukuran absorbansi sampel diukur pada panjang gelombang maksimum DPPH yaitu 517 nm.
+Perhitungan persentase inhibisi dikerjakan mengikut rumus
+Penentuan nilai  (konsentrasi hambat 50% radikal bebas) dihitung dari persamaan regresi linear hubungan konsentrasi sampel versus % inhibisi.
+	3.4.2 Pengujian Mutu Fisikokimia & Stabilitas Sediaan Spray CACAO- 	 	        MIST™
+Prosedur Uji Organoleptik & Homogenitas:
+Pengamatan visual organoleptik dikerjakan meliputi warna, aroma, kejernihan, dan wujud emulsi sediaan.
+Pengujian homogenitas dikerjakan dengan mengoleskan 0,1 mL sediaan pada kaca preparat, ditutup kaca penutup, dan diamati ketiadaan butiran partikel kasar di bawah mikroskop.
+Prosedur Uji pH Sediaan:
+Pengukuran pH dilakukan memasukkan elektroda pH meter digital terkalibrasi (larutan dapar pH 4,0 dan 7,0) langsung ke dalam sediaan.
+Pencatatan nilai pH dipastikan berada pada rentang fisiologis kulit yaitu 4,5 – 5,5.
+Prosedur Uji Viskotas & Sifat Alir:
+Pengukuran viskositas dikerjakan menggunakan Viscometer Brookfield spindle khusus pada kecepatan 100 rpm.
+Evaluasi sifat alir dikerjakan mengukur viskositas bertingkat pada kecepatan 10, 20, 50, dan 100 rpm (serta arah sebaliknya) untuk memverifikasi sifat alir pseudoplastis.
+Prosedur Uji Stabilitas Sediaan (Sentrifugasi & Freeze-Thaw):
+Uji sentrifugasi dikerjakan memasukkan 10 mL sediaan ke dalam tabung sentrifugasi, lalu diputar pada kecepatan 3.800–4.000 rpm selama 5 jam.
+Pengamatan visual pemisahan fase (creaming / cracking) dicatat setelah sentrifugasi.
+Uji freeze-thaw dikerjakan menyimpan sediaan pada suhu dingin 4°C selama 24 jam, dilanjutkan pemindahan ke suhu panas 40°C selama 24 jam (dihitung sebagai 1 siklus).
+Pengujian diulang sebanyak 6 siklus berturut-turut untuk memastikan ketiadaan pemisahan fase.
+	3.4.3 Pengujian Keamanan Standar BPOM (Iritasi Kulit & Cemaran 		        Mikrobiologi)
+Prosedur Uji Keamanan Iritasi Kulit (Patch Test):
+Pengujian iritasi akut dikerjakan mengacu standar BPOM via single application closed patch test menggunakan bilik uji khusus (Finn chamber.
+Aplikasi sediaan dioleskan pada kulit lengan bagian dalam sukarelawan, ditutup kain kasa non-alergenik, dan dibiarkan tertutup selama 24 jam.
+Evaluasi respon kulit (eritema/kemerahan dan edema/pembengkakan) diamati setelah pembukaan selubung pada jam ke-24, 48, dan 72.
+Perhitungan Mean Irritation Index (M.I.I.) dipastikan bernilai 0,00 (kategori non-iritan).
+Prosedur Uji Bebas Cemaran Mikrobiologi (BPOM):
+Pembiakan bakteri Staphylococcus aureus dikerjakan pada media Nutrient Agar (NA) dan jamur Candida albicans pada media Sabouraud Dextrose Agar (SDA).
+Metode cawan tuang (pour plate method) dikerjakan menginokulasikan 1 mL sediaan ke dalam media steril.
+Inkubasi cawan dilakukan pada suhu 37°C selama 24 jam (bakteri) dan 25°C selama 72 jam (jamur).
+Perhitungan Angka Lempeng Total (ALT) dan Angka Kapang Khamir (AKK) dipastikan memenuhi kriteria keamanan BPOM (< 102 CFU/g dan bebas mikroba patogen).
+	3.4.4 Pengujian Mutu Fisik, Permeabilitas (WVTR), dan Biodegradabilitas 	        Bioplastik
+Prosedur Uji Daya Serap Air (WA%):
+Pemotongan sampel bioplastik dikerjakan berukuran, kemudian ditimbang bobot awalnya ().
+Perendaman sampel dikerjakan dalam 20 mL akuades pada suhu ruang selama 10 menit.
+Pengangkatan sampel dilakukan, sisa air permukaan dilap kertas saring, dan ditimbang bobot basahnya 
+Perhitungan persentase daya serap air dihitung mengikut rumus:
+Prosedur Uji Laju Transmisi Uap Air (WVTR / ASTM E-96):
+Pengujian transmisi uap air dikerjakan mengacu standar gravimetri.
+Penutupan cawan khusus berisi desikan silica gel dikerjakan rapat menggunakan sampel film bioplastic.
+Penempatan cawan diletakkan dalam desikator berkelembapan relatif 75% RH pada suhu 25°C.
+Penimbangan pertambahan massa cawan dikerjakan berkala setiap 24 jam selama 48 jam untuk menghitung nilai WVTR (/ day )
+Prosedur Uji Daya Uraian Alami (Biodegradability Test):
+Penimbunan sampel bioplastik  dikerjakan di dalam pot berisi tanah kompos aktif pada kedalaman 5 cm.
+Penyiraman air dilakukan berkala untuk menjaga kelembapan tanah konstan 60%–70%.
+Pengangkatan, pencucian, pengeringan, dan penimbangan bobot sampel dikerjakan setiap 5 hari sekali selama 60 hari untuk menghitung persen kehilangan massa bioplastik.
+	3.4.5 Pengujian Karakterisasi Material (FTIR & SEM)
+Prosedur Analisis Gugus Fungsi FTIR:
+Penggerusan sampel pektin/selulosa bioplastik kering dikerjakan bersama serbuk KBr (rasio 1:100) hingga halus.
+Pembuatan pelet transparan dikerjakan menggunakan penekan hidrolik presisi.
+Pembacaan spektrum serapan Fourier Transform Infrared (FTIR Shimadzu) dikerjakan pada rentang bilangan gelombang  untuk mengidentifikasi puncak gugus fungsi spesifik O-H, C-H, C=O, dan C-O-C.
+Prosedur Analisis Morfologi SEM:
+Pelapisan sampel permukaan bioplastik dikerjakan menggunakan konduktor tipis emas (gold sputtering).
+Pengamatan struktur topografi dan porositas bioplastik dilakukan menggunakan Scanning Electron Microscope (SEM) pada pembesaran 1.000× hingga 5.000×.
+3.5 Teknik Pengumpulan Data dan Analisis Data Statistik
+	3.5.1 Teknik Pengumpulan Data
+Pengumpulan data riset dikelompokkan menjadi dua kategori:
+Data Kuantitatif: Nilai rendemen ekstraksi, nilai absorbansi UV-Vis untuk SPF dan  DPPH, angka pH, viskositas (cPs), persentase  nilai WVTR, dan persen kehilangan massa uji biodegradability.
+Data Kualitatif: Pengamatan warna/aroma organoleptik, ketiadaan butiran partikel homogenitas, keberadaan puncak spektrum gugus fungsi FTIR, morfologi kavitasi permukaan SEM, serta keberhasilan pemindaian Smart Packaging QR-Code.
+	3.5.2 Analisis Data Statistik
+	Pengolahan data kuantitatif hasil pengujian organoleptik, nilai SPF, aktivitas antioksidan, pH, viskositas, WVTR, dan daya serap air dikerjakan secara triplicate (tiga kali pengulangan) untuk memperoleh nilai rata-rata dan standar deviasi (Mean ± SD). Pengujian signifikansi perbedaan antar-perlakuan formulasi dianalisis menggunakan metode Statistik Parametrik Analysis of Variance (ANOVA) satu arah pada tingkat kepercayaan 95% Analisis uji lanjut dikerjakan menggunakan Tukey’s Honestly Significant Difference (HSD) atau Duncan’s Multiple Range Test (DMRT) menggunakan perangkat lunak statistik SPSS/GraphPad Prism.
+3.6 Kesimpulan Hasil Penelitian
+	Penarikan kesimpulan dilakukan melalui sintesis komprehensif seluruh data kuantitatif (rendemen, nilai SPF,  nilai WVTR, tingkat biodegradability) dan data kualitatif (organoleptik, integrasi QR-code). Evaluasi akhir membandingkan capaian riset terhadap target 100% zero-waste closed-loop cascading biorefinery serta pemenuhan kriteria kelayakan komersialisasi produk sediaan kosmetik dan kemasan ramah lingkungan.
+BAB 4
+LUARAN RISET
+4.1 Luaran Wajib dan Spesifikasi Produk Fisik CACAO-MIST™
+Inovasi CACAO-MIST™ menghasilkan luaran berupa produk fisik sediaan Hybrid Eco-Sunscreen Sprayable Hydro-mist ber-SPF 30+ (Broad Spectrum) dan bernilai antioksidan tinggi (> 50 ppm). Formulasi sediaan memanfaatkan ekstrak bioaktif NADES-UAE dan pektin MAE kulit buah kakao (cocoa pod husk / CPH) serta mineral Non-nano ZnO (> 200 nm, reef-safe) bertarget pH fisiologis 4,5–5,5 dengan aplikasi tanpa sentuh (100% touchless spray). Wadah primer berupa botol semprot rPET 100 mL dikemas secara zero-waste menggunakan dual eco-packaging bioplastik selulosa CPH (rasio 75% selulosa CPH : 25% serat ampas tebu) berbentuk Eco-Sleeve dan Outer Box yang terurai alami (biodegradable) di dalam tanah.
+4.2 Integrasi Teknologi Smart Packaging QR-Code Traceability System
+Permukaan kemasan bioplastik CACAO-MIST™ dilengkapi pencetakan kode QR unik (Smart Packaging QR-Code) yang terhubung ke sistem ketertelusuran digital. Fitur sistem mencakup data spasial rantai pasok limbah CPH lokal Kabupaten Pidie (Aceh), transparansi uji laboratorium (SPF, antioksidan, dan keamanan BPOM), edukasi cara pemakaian sediaan semprot, serta panduan komposting mandiri kemasan bioplastik (home-compostable).
+4.3 Pembuatan Web Landing Page Interaktif
+Platform digital berbasis situs web CACAO-MIST Digital Platform dibuat sebagai media edukasi publik dan komersialisasi produk. Arsitektur situs menyediakan informasi peta interaktif asal bahan baku (Farmer-to-Cosmetic Traceability), artikel populer green chemistry, kalkulator kebutuhan SPF harian, serta antarmuka pemesanan produk secara online.
+4.4 Pendaftaran Hak Kekayaan Intelektual (HKI)
+Perlindungan hukum hasil inovasi didaftarkan ke Direktorat Jenderal Kekayaan Intelektual (DJKI) Kemenkumham RI. Skema pendaftaran mencakup Paten Sederhana untuk metode formulasi & ekstraksi kaskade CPH, Hak Cipta karya tulis (proposal, laporan akhir, & artikel ilmiah), Hak Cipta desain industri kemasan bioplastik & logo merek, serta Hak Cipta software sistem QR-Code & Web Landing Page.
+4.5 Matriks Target Luaran Penelitian
+Tabel 4.5.1 Matriks Target Luaran Riset CACAO-MIST™
+BAB 5
+JADWAL KEGIATAN
+	Rencana jadwal kegiatan penelitian dirancang secara terstruktur selama 6 bulan (estimasi pelaksanaan Januari – Juni 2027). Seluruh rangkaian kerja meliputi preparasi bahan, ekstraksi kaskade biorefinery, formulasi sediaan, fabrikasi kemasan bioplastik, pengujian mutu dan keamanan BPOM, karakterisasi instrumen canggih, pengembangan sistem digital, hingga penyusunan laporan pertanggungjawaban akhir. Rincian jadwal pelaksanaan kegiatan penelitian disajikan dalam tabel berikut:
+5.1 Tabel Bar Chart Jadwal Kegiatan Penelitian CACAO-MIST™ (Januari – Juni 2027)
+Identitas Diri
+Riwayat Pendidikan
+Pemakalah Seminar Ilmiah ( Oral Persentation )
+Penghargaan dalam 5  Tahun Terakhir ( dari Pemerintah, Asosiasi, atau Institusi Lainnya)
+Semua data yang saya isikan dan tercantum dalam biodata ini adalah benar dan dapat dipertanggungjawabkan secara hukum. Apabila dikemudian hari ternyata dijumpai ketidaksesuaian dengan kenyataan, saya sanggup menerima sanksi.
+Demikian biodata ini saya buat dengan sebenarnya untuk memenuhi salah satu persyaratan dalam pengajuan dana lomba riset sawit, kakao, dan kelapa tingkat mahasiswa dengan judul penelitian …………………
+								Banda Aceh, 24 Oktober 2026
+								Pengusul,
+								Tanda Tangan
+								Nama: 
